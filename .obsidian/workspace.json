@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "how program run internally"
             }
+          },
+          {
+            "id": "ff88e9fdd7ab1aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/Java Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Programming"
+            }
+          },
+          {
+            "id": "ac5ea6893daf4db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/Variables in Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables in Java"
+            }
+          },
+          {
+            "id": "e8c18dc11ffca3bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operators"
+            }
+          },
+          {
+            "id": "4f472885fb385463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/OOPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOPS"
+            }
+          },
+          {
+            "id": "ad8b8a359a0fc739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/This.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c0db0da2aeaae800",
@@ -140,20 +211,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.base",
+                "file": "Java Programming/how program run internally.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of how program run internally"
+            }
+          },
+          {
+            "id": "7e1d9a5961a3b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,25 +250,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf12e331d6ac9852",
+  "active": "ad8b8a359a0fc739",
   "lastOpenFiles": [
+    "Java Programming/OOPS.md",
+    "Java Programming/This.md",
+    "Zimages/Pasted image 20251012115115.png",
+    "Java Programming/Static.md",
+    "Zimages/Pasted image 20251009140424.png",
+    "Zimages/Pasted image 20251009140410.png",
+    "Java Programming/String.md",
+    "Zimages/Pasted image 20251007222027.png",
+    "Zimages/Pasted image 20251007222005.png",
+    "Java Programming/Arrays.md",
     "Java Programming/Java Programming.md",
+    "Java Programming/Variables in Java.md",
+    "Java Programming/Operators.md",
+    "Java Programming/Methods in java.md",
+    "Zimages/Pasted image 20251007190222.png",
+    "Zimages/Pasted image 20251007185651.png",
+    "Zimages/Pasted image 20251007185541.png",
+    "Zimages/Pasted image 20251007185455.png",
+    "Zimages/Pasted image 20251007184256.png",
+    "Java Programming/Programs/Untitled.md",
+    "Untitled.md",
+    "Java Programming/Programs/Hello.java",
+    "Java Programming/Programs",
     "Java Programming/how program run internally.md",
+    "find duplicate.md",
+    "array solution",
     "Welcome.md",
     "Untitled.base",
     "Untitled 1.md",
     "JavaScript",
     "Project",
     "Zimages",
-    "Zimages/Pasted image 20250911150612.png",
-    "Zimages/Pasted image 20250911150444.png",
-    "Zimages/Pasted image 20250911145921.png",
-    "Zimages/Pasted image 20250911150051.png",
-    "Zimages/Pasted image 20250911145740.png",
-    "Zimages/Pasted image 20250911145712.png",
-    "Zimages/Pasted image 20250911145537.png",
     "Java Programming",
-    "Zimages/Pasted image 20250911143155.png",
     "Untitled 1.base",
     "Untitled 2.base"
   ]
