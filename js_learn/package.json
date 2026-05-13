@@ -1,0 +1,25 @@
+{
+  "name": "@sathiyaseelan096/js_learn",
+  "version": "1.0.6",
+  "description": "A JavaScript learning collection with 30+ example files.",
+  "main": "index.js",
+  "author": "Sathiyaseelan",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "JS"
+  ],
+  "homepage": "https://github.com/sathiyaseelan0712/java_script_learning_code#readme",
+  "bugs": {
+    "url": "https://github.com/sathiyaseelan0712/java_script_learning_code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathiyaseelan0712/java_script_learning_code.git"
+  },
+  "type": "commonjs",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
